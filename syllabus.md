@@ -3,7 +3,6 @@ layout: default
 title: "CS167 Syllabus Fall 2021"
 permalink: /syllabus/
 ---
--webkit-overflow-scrolling: touch;
 
 # CS167: Fall 2021 Syllabus
 
