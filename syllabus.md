@@ -133,13 +133,15 @@ There are two exams which are very tentatively scheduled for:
 While in-person attendance is very strongly encouraged, I will also be allowing virtual attendance. Each lecture will be recorded and uploaded to Blackboard and this website as soon as possible after class. While I will do my best to ensure the virtual experience is similar to the in-person experience, there are some elements that are difficult to replicate--group work, white board sessions, etc. Know that you may miss out on some of these experiences if you choose not to attend in person. 
 
 ## Collaboration Policy
-As a default policy, you may work with each other on projects and assignments; however, every student must implement program code, perform experiments,
-and write up the accompanying results separately (unless otherwise specified). Sharing completed solutions (verbally, physically, electronically, etc.) 
-is not acceptable. If you work with someone, you must say so somewhere in your assignment, and you must affirm that you in fact worked together and that 
-no completed solutions were shared. For instance, in the comments of a program or at the top of a written page, you must write something like 
-“I worked on parts X and Y of this assignment with person Z. No completed solutions were shared.” 
+As a default policy, you may work with each other on projects and assignments; however, every student must implement program code, 
+perform experiments, and write up the accompanying results separately (unless otherwise specified). Sharing completed solutions 
+(verbally, physically, electronically, etc.) is not acceptable. If you work with someone, you must say so somewhere in your assignment, 
+and you must affirm that you in fact worked together and that no completed solutions were shared. For instance, in the comments of a 
+program or at the top of a written page, you must write something like “I worked on parts X and Y of this assignment with person Z. 
+No completed solutions were shared.”   
+  
+You are not to collaborate with anyone except for the instructor and other students enrolled in Human Computer Interaction this semester.   
 
-You are not to collaborate with anyone except for the instructor and other students enrolled in CS167 this semester.
 
 ## Academic Integrity
 Students are encouraged to seek out resources for help in understanding concepts when completing coursework. However, there is a big difference between seeking 
@@ -161,15 +163,9 @@ All requests for assistance must be received (at least) four full business days 
 ## Covid-19 Course and University Policies:
 
 ### Masks and Social Distancing
-When we do meet in person, we will all wear masks and maintain social distance to minimize the likelihood of the spread of the novel coronavirus. 
+When we do meet in person, we will all wear masks to minimize the likelihood of the spread of the novel coronavirus. 
 Doing so is not only a requirement in our class, but is also a campus-wide policy. I will ask those who choose not to wear a mask to leave the classroom and, 
 following guidance from the Provost’s office, I will alert the dean of students’ office.  
-
-### Camera Use during Virtual Attendance:
-A significant part of your learning in this course will depend on your active and attentive engagement in class discussions and other collaborative learning opportunities. 
-I encourage you to turn on your camera during online collaborative exchanges to help sustain a sense of community and co-presence as we learn together. 
-However, doing so is not required; if you have reservations about doing so (or an inconsistent, slow internet connection, etc.) having your camera turned off
-is also completely acceptable. 
 
 ### Instructions for Students who Test Positive
 If you test positive for Covid-19 or have been exposed and need to isolate yourself, please send an email to dos@drake.edu from your Drake email account and 
