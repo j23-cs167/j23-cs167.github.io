@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "CS195 A0"
-permalink: /A0/
+title: "CS167 SE1"
+permalink: /SE1/
 ---
 
 # Short Exercise #1: Hello World
