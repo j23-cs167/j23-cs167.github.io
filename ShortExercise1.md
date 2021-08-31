@@ -38,11 +38,11 @@ I will demo this part in Day 01 and will post the recording to Blackboard. But h
 2. Join the classroom and accept the [practice-assignment](https://classroom.github.com/a/ez02Pcl5). Shoot me a Slack message if you don't see your name in the course roster.
 3. Open up your shiny new Github Repository. It should look something like https://github.com/cs167/practice-assignment-your_gihub_name_here
 4. Open up the `practice_assignment_starter.ipynb` file by clicking on it and then using the 'Open in Colab' button to open Google Colab.
-5. Complete the exercises from `practice-assignment`:
-  a. Print out 'Hello World'
-  b. Add a text cell with some markdown components (specified in the starter code)
-  c. Write a function and test it
-  d. Import data
+5. Complete the exercises from `practice-assignment`: <br>
+  a. Print out 'Hello World' <br>
+  b. Add a text cell with some markdown components (specified in the starter code)<br>
+  c. Write a function and test it <br>
+  d. Import data <br>
 6. Save your code to Github using File --> 'Save a Copy in Github' and select your practice-assignment repository, it should look like `your_github_name/practice-assignment`, and check the 'include a link to Colaboratory' box. 
 
 ## How to turn it in:
