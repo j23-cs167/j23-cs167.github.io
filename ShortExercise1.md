@@ -4,7 +4,7 @@ title: "CS195 A0"
 permalink: /A0/
 ---
 
-# Assigment 0: Hello World
+# Short Exercise #1: Hello World
 This is the first assignment of the semester. It is worth a total of 6 points.
 
 **Due**: September 9th, 2021 by 11:59pm
