@@ -13,6 +13,7 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 <iframe width='90%' height='700' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQIK3ICThTXzli65d9zouUjcV5Sfz-KTBl52g-wqVuiBlqoH2oPKOLldfhv4TEJJURbNEQfhNbb5oN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Key 🔑
+
 | Abbr. | Deliverable Type   | Time Due:    |
 |-------|--------------------|--------------|
 | SE    | Short Exercise     | Before Beginning of Next Class |
