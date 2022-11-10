@@ -20,9 +20,9 @@ Last class we talked about:
 # Building From Scratch:
 In class on Monday, I noticed that we haven't done a lot of creating your own program from scratch, and I wanted to take some time today to really dig in to what that process looks like, and demonstrate some best practices for this.
 
-## Here are some tips: 
+# Here are some tips: 
 
-### Step #1: Start by planning/writing out __what you want your software to do__. 
+## Step #1: Start by planning/writing out __what you want your software to do__. 
 - For this assignment, it might look something like playing a few games and deciding how you want your game to operate. 
 
 ## Step #2: __break the project down into smaller units__.
